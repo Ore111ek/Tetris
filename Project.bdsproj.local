@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018.12.24 22:03:48.435.pas,C:\Users\Professional\Documents\Borland Studio Projects\Unit1.pas=C:\Users\Professional\Desktop\Dima\tetris\tetrisunit.pas</Transaction>
+    <Transaction>2018.12.24 22:03:48.436.dfm,C:\Users\Professional\Documents\Borland Studio Projects\Unit1.dfm=C:\Users\Professional\Desktop\Dima\tetris\tetrisunit.dfm</Transaction>
+    <Transaction>2018.12.24 22:03:56.178.bdsproj,C:\Users\Professional\Documents\Borland Studio Projects\Project2.bdsproj=C:\Users\Professional\Desktop\Dima\tetris\Project.bdsproj</Transaction>
+    <Transaction>2018.12.25 11:14:02.099.pas,C:\Users\Professional\Desktop\Dima\tetris\Unit1.pas=C:\Users\Professional\Desktop\Dima\tetris\Figure.pas</Transaction>
+  </Transactions>
+</BorlandProject>
